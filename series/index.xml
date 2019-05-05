@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 李玮</title>
-    <link>https://veily.github.io/series/</link>
+    <link>https://liwei.im/series/</link>
     <description>Recent content in Series on 李玮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     
-	<atom:link href="https://veily.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liwei.im/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>测试</title>
-      <link>https://veily.github.io/series/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://liwei.im/series/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 11 Mar 2019 20:35:12 +0800</pubDate>
       
-      <guid>https://veily.github.io/series/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://liwei.im/series/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     
